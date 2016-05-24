@@ -16,12 +16,11 @@
   ],
   "author": "Darach Ennis",
   "license": "MIT",
-  "dependencies": {
-    "docco": "~0.4.0",
-    "byline": "~2.0.3",
-    "nodeunit": "~0.8.1"
-  },
+  "dependencies": {},
   "devDependencies": {
+    "byline": "~2.0.3",
+    "docco": "~0.4.0",
+    "nodeunit": "~0.8.1"
   },
 
   "scripts": {
